@@ -1,0 +1,5 @@
+These scripts are for the camera path I use in the Input calculation scene, and the online tutorial from CatlikeCoding http://catlikecoding.com/unity/tutorials/curves-and-splines/ that some of it’s systems rely on.
+
+While fun these scripts are messy and not made to be readable, like the other scripts in this project, and are only here because I wanted to use them practically.
+
+Basically they’re a complex mess, not worth messing with.

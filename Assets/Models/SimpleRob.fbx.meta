@@ -1,0 +1,1492 @@
+fileFormatVersion: 2
+guid: 3c6bf707bf494514aad9e38122b3cc73
+timeCreated: 1511270361
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _MoveRef
+    100002: _MoveRef_end
+    100004: Base
+    100006: Foot_IK_L
+    100008: Foot_IK_L_end
+    100010: Foot_IK_R
+    100012: Foot_IK_R_end
+    100014: Foot_L
+    100016: Foot_L_end
+    100018: Foot_R
+    100020: Foot_R_end
+    100022: Head
+    100024: Head_IK
+    100026: Head_IK_end
+    100028: Hip
+    100030: Leg_L
+    100032: Leg_Pole_L
+    100034: Leg_Pole_L_end
+    100036: Leg_Pole_R
+    100038: Leg_Pole_R_end
+    100040: Leg_R
+    100042: Neck_BaseHandle
+    100044: Neck_Start
+    100046: Neck_Top
+    100048: Pupil
+    100050: Pupil_end
+    100052: SimpleRob
+    100054: //RootNode
+    100056: SimpleRob_Armature
+    100058: Spine_Base
+    100060: Thigh_L
+    100062: Thigh_R
+    100064: _MoveRef 1
+    100066: _MoveRef_end 1
+    100068: Base 1
+    100070: Base 2
+    100072: Base_end
+    100074: Circle
+    100076: Circle.003
+    100078: Cube
+    100080: Cube.001
+    100082: Door_01
+    100084: Door_02
+    100086: Door_02_end
+    100088: Door_Armature
+    100090: Door_Mesh
+    100092: DoorBase_Mesh
+    100094: DoorBase_Mesh.001
+    100096: Foot_IK_L 1
+    100098: Foot_IK_L_end 1
+    100100: Foot_IK_R 1
+    100102: Foot_IK_R_end 1
+    100104: Foot_L 1
+    100106: Foot_L_end 1
+    100108: Foot_R 1
+    100110: Foot_R_end 1
+    100112: Gear
+    100114: Head 1
+    100116: Head_IK 1
+    100118: Head_IK_end 1
+    100120: Hip 1
+    100122: Lamp
+    100124: Lamp.001
+    100126: Leg_L 1
+    100128: Leg_Pole_L 1
+    100130: Leg_Pole_L_end 1
+    100132: Leg_Pole_R 1
+    100134: Leg_Pole_R_end 1
+    100136: Leg_R 1
+    100138: Neck_BaseHandle 1
+    100140: Neck_Start 1
+    100142: Neck_Top 1
+    100144: PlayerMoveType_Area
+    100146: Pupil 1
+    100148: Pupil_end 1
+    100150: RaceTrack
+    100152: RaceTrack.003
+    100154: SimpleRob.001
+    100156: SimpleRob_Armature.001
+    100158: Spine_Base 1
+    100160: Thigh_L 1
+    100162: Thigh_R 1
+    100164: ToyCar
+    400000: _MoveRef
+    400002: _MoveRef_end
+    400004: Base
+    400006: Foot_IK_L
+    400008: Foot_IK_L_end
+    400010: Foot_IK_R
+    400012: Foot_IK_R_end
+    400014: Foot_L
+    400016: Foot_L_end
+    400018: Foot_R
+    400020: Foot_R_end
+    400022: Head
+    400024: Head_IK
+    400026: Head_IK_end
+    400028: Hip
+    400030: Leg_L
+    400032: Leg_Pole_L
+    400034: Leg_Pole_L_end
+    400036: Leg_Pole_R
+    400038: Leg_Pole_R_end
+    400040: Leg_R
+    400042: Neck_BaseHandle
+    400044: Neck_Start
+    400046: Neck_Top
+    400048: Pupil
+    400050: Pupil_end
+    400052: //RootNode
+    400054: SimpleRob
+    400056: SimpleRob_Armature
+    400058: Spine_Base
+    400060: Thigh_L
+    400062: Thigh_R
+    400064: _MoveRef 1
+    400066: _MoveRef_end 1
+    400068: Base 1
+    400070: Base 2
+    400072: Base_end
+    400074: Circle
+    400076: Circle.003
+    400078: Cube
+    400080: Cube.001
+    400082: Door_01
+    400084: Door_02
+    400086: Door_02_end
+    400088: Door_Armature
+    400090: Door_Mesh
+    400092: DoorBase_Mesh
+    400094: DoorBase_Mesh.001
+    400096: Foot_IK_L 1
+    400098: Foot_IK_L_end 1
+    400100: Foot_IK_R 1
+    400102: Foot_IK_R_end 1
+    400104: Foot_L 1
+    400106: Foot_L_end 1
+    400108: Foot_R 1
+    400110: Foot_R_end 1
+    400112: Gear
+    400114: Head 1
+    400116: Head_IK 1
+    400118: Head_IK_end 1
+    400120: Hip 1
+    400122: Lamp
+    400124: Lamp.001
+    400126: Leg_L 1
+    400128: Leg_Pole_L 1
+    400130: Leg_Pole_L_end 1
+    400132: Leg_Pole_R 1
+    400134: Leg_Pole_R_end 1
+    400136: Leg_R 1
+    400138: Neck_BaseHandle 1
+    400140: Neck_Start 1
+    400142: Neck_Top 1
+    400144: PlayerMoveType_Area
+    400146: Pupil 1
+    400148: Pupil_end 1
+    400150: RaceTrack
+    400152: RaceTrack.003
+    400154: SimpleRob.001
+    400156: SimpleRob_Armature.001
+    400158: Spine_Base 1
+    400160: Thigh_L 1
+    400162: Thigh_R 1
+    400164: ToyCar
+    2300000: Circle
+    2300002: Circle.003
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Gear
+    2300010: PlayerMoveType_Area
+    2300012: RaceTrack
+    2300014: RaceTrack.003
+    2300016: ToyCar
+    3300000: Circle
+    3300002: Circle.003
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Gear
+    3300010: PlayerMoveType_Area
+    3300012: RaceTrack
+    3300014: RaceTrack.003
+    3300016: ToyCar
+    4300000: SimpleRob
+    4300002: RaceTrack
+    4300004: RaceTrack.003
+    4300006: ToyCar
+    4300008: PlayerMoveType_Area
+    4300010: Door_Mesh
+    4300012: DoorBase_Mesh
+    4300014: DoorBase_Mesh.001
+    4300016: Cube.001
+    4300018: Circle.003
+    4300020: Gear
+    4300022: Circle
+    4300024: SimpleRob.001
+    4300026: Cube
+    7400000: SimpleRob_Walk
+    7400002: SimpleRob_IdleLoop
+    7400004: SimpleRob_Armature|SimpleRob_Slide
+    7400006: SimpleRob_Armature|SimpleRob_Movement.001
+    7400008: SimpleRob_JumpStart
+    7400010: SimpleRob_JumpIdle
+    7400012: SimpleRob_JumpEnd
+    7400014: SimpleRob_IdlePose
+    7400016: SimpleRob_Sneak
+    7400018: SimpleRob_SneakIdle
+    7400020: SimpleRob_SneakPose
+    7400022: SimpleRob_Notice
+    7400024: SimpleRob_Headbutt
+    7400026: SimpleRob_MoonWalk
+    7400028: SimpleRob_Exsample
+    9500000: //RootNode
+    13700000: SimpleRob
+    13700002: Door_Mesh
+    13700004: DoorBase_Mesh
+    13700006: DoorBase_Mesh.001
+    13700008: SimpleRob.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SimpleRob_Walk
+      takeName: SimpleRob_Armature|SimpleRob_Movement
+      firstFrame: 26
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_JumpStart
+      takeName: SimpleRob_Armature|SimpleRob_Movement
+      firstFrame: 103
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_JumpIdle
+      takeName: SimpleRob_Armature|SimpleRob_Movement
+      firstFrame: 120
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_JumpEnd
+      takeName: SimpleRob_Armature|SimpleRob_Movement
+      firstFrame: 135
+      lastFrame: 147
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_IdleLoop
+      takeName: SimpleRob_Armature|SimpleRob_Poses
+      firstFrame: 0
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_IdlePose
+      takeName: SimpleRob_Armature|SimpleRob_Poses
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_Sneak
+      takeName: SimpleRob_Armature|SimpleRob_Movement
+      firstFrame: 200
+      lastFrame: 215
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_SneakIdle
+      takeName: SimpleRob_Armature|SimpleRob_Poses
+      firstFrame: 500
+      lastFrame: 590
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_SneakPose
+      takeName: SimpleRob_Armature|SimpleRob_Movement
+      firstFrame: 199
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_Notice
+      takeName: SimpleRob_Armature|SimpleRob_Poses
+      firstFrame: 620
+      lastFrame: 636
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_Headbutt
+      takeName: SimpleRob_Armature|SimpleRob_Poses
+      firstFrame: 650
+      lastFrame: 662
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_MoonWalk
+      takeName: SimpleRob_Armature|SimpleRob_Movement
+      firstFrame: 240
+      lastFrame: 257
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SimpleRob_Exsample
+      takeName: SimpleRob_Armature|SimpleRob_Movement
+      firstFrame: 240
+      lastFrame: 257
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SimpleRob
+        weight: 1
+      - path: SimpleRob_Armature
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef
+        weight: 1
+      - path: SimpleRob_Armature/_MoveRef/_MoveRef_end
+        weight: 1
+      - path: SimpleRob_Armature/Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_L/Foot_IK_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Foot_IK_R/Foot_IK_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK
+        weight: 1
+      - path: SimpleRob_Armature/Base/Head_IK/Head_IK_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_L/Leg_Pole_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Leg_Pole_R/Leg_Pole_R_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Neck_BaseHandle/Neck_Start/Neck_Top/Head/Pupil/Pupil_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_L/Leg_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R
+        weight: 1
+      - path: SimpleRob_Armature/Base/Spine_Base/Hip/Thigh_R/Leg_R/Foot_R/Foot_R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
